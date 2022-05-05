@@ -1,19 +1,4 @@
-## Uploading and processing the Excel file in Django
-
-- Clone this repo to your system.
-
-- Create a virtual environment and activate it.
-
-- Install the dependencies using `pip install -r requirement.txt`.
-
-- Start the python server, `python manage.py runserver`.
-
-- Go to `localhost:8000` and upload the `user_data.xls` file.
-
-- Content will be displayed on page.
-
-- Refer below article for detailed information:
-
-    https://www.pythoncircle.com/post/591/how-to-upload-and-process-the-excel-file-in-django/
-
-![alt text](https://github.com/anuragrana/excel-file-upload-django/blob/master/excel-django.png)
+The Requirements.txt file is all the update installs that I have used to make the code function. 
+Highly recommend you download all the needed programs with their specific versions to minimize problems and trouble shooting.
+myapp will hold all the main code if you want to start somewhere. 
+This project was done during an internship with the OneNine AI company, to help bring a text to code expierence anyone can use.
